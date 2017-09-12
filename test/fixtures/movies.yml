@@ -1,0 +1,23 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  title: MyString
+  rating: MyString
+  genre: MyString
+  year_released: 1
+  plot: MyText
+  director: MyString
+  actors: MyString
+  poster: MyString
+  rotten_tomatoes_score: MyString
+
+two:
+  title: MyString
+  rating: MyString
+  genre: MyString
+  year_released: 1
+  plot: MyText
+  director: MyString
+  actors: MyString
+  poster: MyString
+  rotten_tomatoes_score: MyString
